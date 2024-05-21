@@ -19,8 +19,8 @@ public class BookingAPIAutomation {
     @BeforeClass
     public void setup() {
         RestAssured.baseURI = baseUrl;
-        // You may need to authenticate and get the token if required
-        // Here assuming token is "abc123" as mentioned in the provided update request
+
+        // Here assuming token is "abc123" 
         this.token = "abc123";
     }
 

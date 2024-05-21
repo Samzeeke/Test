@@ -10,6 +10,8 @@ Navigate to the login page and perform sign-in using provided credentials.
 Fetch and manipulate elements on the webpage, such as extracting item labels and prices.
 Execute JavaScript for actions like scrolling the page to ensure visibility of certain elements.
 Simulate user interactions like clicking buttons, navigating between pages, and filling out forms.
+
+
 3. Ease of Integration with Other Tools:
 Selenium integrates well with various frameworks and tools. In this case, WebDriverManager was used to handle the setup and management of the ChromeDriver, simplifying the configuration process and ensuring compatibility with the latest browser versions.
 
